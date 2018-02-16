@@ -4,9 +4,9 @@ An implementation of NTRUEncrypt in C++
 This is an implementation of NTRUEncrypt algorithm. 
 
 Used libraries are
-- <iostream>;
-- <string>;
-- <ctime>.
+- iostream;
+- string;
+- ctime.
 
 It contains
 - mathematical description;
